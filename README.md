@@ -2,7 +2,8 @@
 This repository contains the code for a Variational Autoencoder (VAE) model that can generate new images and decrease the noise of input images. The VAE model is trained on the MNIST dataset.
 
 # How to Use
-Clone the repository to your local machine using git clone https://github.com/IlkinKarimli0/Variational_autoencoder.git.
+Clone the repository to your local machine using 
+`git clone https://github.com/IlkinKarimli0/Variational_autoencoder.git`.
 Run the Jupyter Notebook Variational_Autoencoder.ipynb.
 Follow the instructions in the notebook to generate new images or decrease the noise of input images.
 
